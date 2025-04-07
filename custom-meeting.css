@@ -17,4 +17,10 @@ section#ActionsBar {
     --darkreader-bg--btn-primary-bg: #d7640f !important;
     --darkreader-bg--color-primary: #d7640f !important;
     --darkreader-selection-background: #d7640f !important;
+    --darkreader-bg--color-gray-dark: #252525 !important;
+    --darkreader-text--color-white: #dedcd9 !important;
+}
+
+span[color="primary"] {
+    background-color: #d7640f !important;
 }
