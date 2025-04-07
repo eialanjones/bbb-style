@@ -1,0 +1,13 @@
+body {
+    background-color: #272727;
+}
+
+header#Navbar, 
+section#ActionsBar {
+    background-color: #1c1c1c;
+}
+
+:root {
+    --color-primary: #d7640f;
+    --btn-primary-bg: var(--color-primary);
+}
