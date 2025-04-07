@@ -1,13 +1,17 @@
+:root {
+    --loader-bg: #272727;
+}
+
 body {
-    background-color: #272727;
+    background-color: #272727 !important;
 }
 
 header#Navbar, 
 section#ActionsBar {
-    background-color: #1c1c1c;
+    background-color: #1c1c1c !important;
 }
 
 :root {
-    --color-primary: #d7640f;
-    --btn-primary-bg: var(--color-primary);
+    --color-primary: #d7640f !important;
+    --btn-primary-bg: var(--color-primary) !important;
 }
